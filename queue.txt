@@ -1,0 +1,2 @@
+format (do not delete this line):" link;random_duration?;desired_duration_secs;shuffle?;skip_rate;like_rate#comment " ? equals boolean (true or false)
+https://open.spotify.com/playlist/13remv;true;122;true;10;1#comment
